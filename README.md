@@ -7,11 +7,9 @@
 
 ## Team Members:
 
-	Batch: T1
-	111803157  Mrunal Kotkar
-	111803168  Vrinda Ahuja
-    141903009  Divya Kharode
-	
+Niranjan Singh
+Priyesh Raj Singh
+Prateek Kumar
 
 ## Project Description:
 
