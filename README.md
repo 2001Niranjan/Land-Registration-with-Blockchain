@@ -7,8 +7,8 @@
 
 ## Team Members:
 
-Niranjan Singh
-Priyesh Raj Singh
+Niranjan Singh,
+Priyesh Raj Singh,
 Prateek Kumar
 
 ## Project Description:
